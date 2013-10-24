@@ -1,0 +1,1 @@
+typedef A = { a : Int }
