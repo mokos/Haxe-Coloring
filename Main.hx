@@ -1,1 +1,6 @@
-typedef A = { a : Int }
+typedef A = { a : Int };
+
+class Main {
+  public static function main() {
+  }
+}
